@@ -24,7 +24,11 @@ en promedio mensual sufre actualizaciones,
 Happy Hacking ;)
 
 S ecurity
+
 W eaken
+
 O perations
+
 R esponse
+
 D etection
